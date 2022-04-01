@@ -1,10 +1,15 @@
 ---
 demo:
-    title: 'Демонстрация 1. Назначение курсов обучения'
-    module: 'Модуль 4. Изучение основ Microsoft Dynamics 365 Human Resources'
+  title: Демонстрация 1. Назначение курсов обучения
+  module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Human Resources'
+ms.openlocfilehash: 06483c659174e77391b0181963299d51f2011d35
+ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909716"
 ---
-
-## Демонстрация 1 — назначение курсов обучения
+## <a name="demo-1---assigning-learning-courses"></a>Демонстрация 1 — назначение курсов обучения
 
 1. Перейдите на домашнюю страницу **Microsoft Dynamics 365 Human Resources**.  
     В приложении Microsoft Dynamics 365 Human Resources руководители по персоналу могут назначать сотрудникам учебные курсы. В этом примере принятой на работу Алисии требуется назначить обучение, доступное для сотрудников в течение их первых тридцати дней работы.
@@ -64,7 +69,7 @@ demo:
 
 1. Выберите новую дату начала курса. Например, **6 января 2021**.
 
-1. Нажмите кнопку **Сохранить**.
+1. Выберите **Сохранить**.
 
 1. Нажмите кнопку **X**, чтобы закрыть страницу.
 
