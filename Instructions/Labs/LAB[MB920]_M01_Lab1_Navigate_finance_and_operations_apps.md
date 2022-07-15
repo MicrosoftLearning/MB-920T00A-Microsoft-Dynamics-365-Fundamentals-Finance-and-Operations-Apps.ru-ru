@@ -1,15 +1,15 @@
 ---
 lab:
   title: Задание 1. Управление финансовыми и операционными приложениями
-  module: 'Module 1: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
-ms.openlocfilehash: b0202a22e00a6fb2d561179ed1d6006f13d871f9
-ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
+  module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
+ms.openlocfilehash: f1d534e6d6d960be8f6672048f83a20a491264cc
+ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909776"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "147116218"
 ---
-# <a name="module-1-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>Модуль 1. Изучение основ Microsoft Dynamics 365 Supply Chain Management
+# <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>Модуль 1. Изучение основных возможностей приложений для управления финансами и операциями в Dynamics 365
 
 ## <a name="lab-1---navigate-finance-and-operations-apps"></a>Лабораторная работа 1 — управление финансовыми и операционными приложениями
 
