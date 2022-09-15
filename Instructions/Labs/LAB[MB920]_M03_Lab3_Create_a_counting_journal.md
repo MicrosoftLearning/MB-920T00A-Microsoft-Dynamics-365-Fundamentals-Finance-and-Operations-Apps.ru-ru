@@ -2,22 +2,17 @@
 lab:
   title: Лабораторная работа 3. Создание инвентарного журнала
   module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
-ms.openlocfilehash: 5e61646d33f284bb7e30b6f63a7db4778f58b47c
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116365"
 ---
+
 # <a name="module-3-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>Модуль 3. Изучение основ Microsoft Dynamics 365 Supply Chain Management
 
 ## <a name="lab-3---create-a-counting-journal"></a>Задание 3. Создание инвентарного журнала
 
-1. На домашней странице Finance and Operations в правом верхнем углу проверьте, что вы работаете с компанией **USMF**. При необходимости выберите компанию, и в раскрывающемся списке выберите компанию **USMF**.
+1. On the Finance and Operations home page, in the top right, verify you are working with the <bpt id="p1">**</bpt>USMF<ept id="p1">**</ept> company. If necessary, select the company, and from the drop down, select <bpt id="p1">**</bpt>USMF<ept id="p1">**</ept>.
 
 2. На панели навигации последовательно выберите **Модули** > **Управление запасами** > **Записи журнала** > **Учет номенклатур** > **Инвентаризация**.
 
-3. Нажмите кнопку **+ Новые** в области действий. Откроется диалоговая форма **Создание инвентарного журнала** с кнопкой **ОК** внизу. Нажмите кнопку **ОК**.
+3. Select the <bpt id="p1">**</bpt>+New<ept id="p1">**</ept> button in the action pane. The <bpt id="p1">**</bpt>Create inventory journal<ept id="p1">**</ept> dialog form will appear with the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button in the bottom. Select the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.
 
 4. В форме инвентарного журнала будут отображаться заголовок и подробные сведения
 
@@ -29,13 +24,13 @@ ms.locfileid: "147116365"
 
 ![Снимок экрана: диалоговое окно "Создание инвентарного журнала наличных запасов" с полями, заполненными как описано.](../media/lp-scm-m-002-warehouse-inventory-mgmt-07.png)
 
-7. Разверните раздел **Запись, которую нужно включить** и перейдите по ссылке **Фильтр**. В поле **Код номенклатуры** выберите **A0001** и нажмите **ОК**.
+7. Expand the <bpt id="p1">**</bpt>Record to include<ept id="p1">**</ept> section and select the <bpt id="p2">**</bpt>Filter<ept id="p2">**</ept> link. In the <bpt id="p1">**</bpt>Item number<ept id="p1">**</ept> field, select <bpt id="p2">**</bpt>A0001<ept id="p2">**</ept>, and then select <bpt id="p3">**</bpt>OK<ept id="p3">**</ept>.
 
 8. Нажмите **ОК** в нижней части диалоговой формы **Создание инвентарного журнала наличных запасов**.
 
 Имеющееся в наличии количество номенклатуры A0001 будет отображаться в разделе **Строки журнала** с разбивкой по местонахождению, складу, месту хранения и номерному знаку.
 
-9. В столбце **Фактический остаток** раздела **Строка журнала** введите значения фактического остатка для местонахождения, склада, места хранения или номерного знака. Следует отметить следующее.
+9. In the <bpt id="p1">**</bpt>Counted<ept id="p1">**</ept> column of the <bpt id="p2">**</bpt>Journal line<ept id="p2">**</ept> section, enter the numbers counted in each Site/Warehouse/Location/License plate. Note the following:
 
     - Если имеющееся **в наличии** количество совпадет с количеством **фактического остатка**, поле **Количество** будет пустым.
 

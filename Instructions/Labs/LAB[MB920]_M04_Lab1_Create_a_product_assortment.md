@@ -1,14 +1,9 @@
 ---
 lab:
-  title: Задание 1. Создание ассортимента продукта
+  title: "Задание\_1. Создание ассортимента продукта"
   module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Commerce'
-ms.openlocfilehash: 7a1764cacfbf92ca50cda3baf9c8f374bf99bacd
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116362"
 ---
+
 ## <a name="lab-1---create-a-product-assortment"></a>Задание 1. Создание ассортимента продуктов
 
 ## <a name="objectives"></a>Задачи
@@ -33,7 +28,7 @@ ms.locfileid: "147116362"
 
 1. Щелкните поле **Действует с** и выберите дату в будущем времени.
 
-1. В поле **Наименование ассортимента** введите название нового ассортимента. Например, **Новый весенний сезон**.
+1. In the <bpt id="p1">**</bpt>Assortment name<ept id="p1">**</ept> box, enter a name for the new assortment. For example, <bpt id="p1">**</bpt>New Spring Season<ept id="p1">**</ept>.
 
 1. Установите для параметра **Дата окончания** значение **Нет**.
 
@@ -60,7 +55,7 @@ ms.locfileid: "147116362"
 
 1. В результате выполненных действий все дочерние номенклатуры будут добавлены в родительскую категорию.
 
-1. Просмотрите последний столбец с именем **Тип строки**. По умолчанию все номенклатуры будут включены в состав.
+1. Review the last column named <bpt id="p1">**</bpt>Line type<ept id="p1">**</ept>. By default, all items will be included.
 
 1. Нажмите кнопку **+ Добавить строку**, откройте меню **Категория**, разверните список **Командные виды спорта (Командные виды спорта)** , выберите пункт **Бейсбол** и нажмите кнопку **OK**.
 
@@ -68,7 +63,7 @@ ms.locfileid: "147116362"
 
 1. В строке категории «Бейсбол» откройте меню **Продукты**.
 
-1. Когда продукты в пределах категории определены, можно выбрать любой конкретный продукт для включения или исключения. Выберите **ВзрослыйБейсбольныйПолевой**.
+1. When products within a category are defined, you can select a specific product to include or exclude. Select <bpt id="p1">**</bpt>AdultBaseballInfield<ept id="p1">**</ept>.
 
 1. Чтобы удалить добавленный продукт, удалите содержимое поля продукта, а затем нажмите на клавиатуре клавишу TAB или выберите другую область страницы.
 

@@ -2,19 +2,14 @@
 demo:
   title: Демонстрация 1. Назначение курсов обучения
   module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Human Resources'
-ms.openlocfilehash: 06483c659174e77391b0181963299d51f2011d35
-ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909716"
 ---
+
 ## <a name="demo-1---assigning-learning-courses"></a>Демонстрация 1 — назначение курсов обучения
 
 1. Перейдите на домашнюю страницу **Microsoft Dynamics 365 Human Resources**.  
-    В приложении Microsoft Dynamics 365 Human Resources руководители по персоналу могут назначать сотрудникам учебные курсы. В этом примере принятой на работу Алисии требуется назначить обучение, доступное для сотрудников в течение их первых тридцати дней работы.
+    In Microsoft Dynamics 365 Human Resources, personnel managers can assign training courses to employees. In this example, the company’s new hire, Alicia, needs to be assigned the training that is available to employees within their first thirty days.
 
-1. Проверьте, чтобы в правом верхнем окне выбора компании, к которой подключаетесь, была указана компания **USMF**. Если это не так, измените компанию на **USMF**.
+1. In the top-right company picker, verify that the company you are connecting to is <bpt id="p1">**</bpt>USMF<ept id="p1">**</ept>. If it’s not, change it to <bpt id="p1">**</bpt>USMF<ept id="p1">**</ept>.
 
 1. В левом верхнем углу экрана откройте вкладку **Управление персоналом**.
 
@@ -22,13 +17,13 @@ ms.locfileid: "137909716"
 
     ![Снимок экрана со страницей «Управление персоналом» с выделенным номером сотрудников.](./media/assigning_learning_courses_1_employee.png)
 
-1. На вкладке **Сотрудники** выберите имя сотрудника, которому назначается обучение. Например, **Alicia Thornber** (Алисия Торнбер).  
+1. In the <bpt id="p1">**</bpt>Employees<ept id="p1">**</ept> table, select the name of the employee to assign training to. For example, <bpt id="p1">**</bpt>Alicia Thornber<ept id="p1">**</ept>.  
     После этого на вкладке «Компетенции и развитие» можно просмотреть ссылки на сведения о сертификатах, образовании и навыках сотрудника.
 
 1. На странице сотрудника откройте вкладку **Компетенции и развитие**.
 
 1. В разделе **Компетенции** выберите пункт **Курсы**.  
-    На странице «Курсы» для сотрудника можно увидеть, назначены ли ему (ей) какие-либо курсы. В случае Алисии список курсов пуст. Доступные для назначения курсы можно просмотреть с помощью меню «Код курса».
+    From an employee’s Courses page, you can see whether any courses have been assigned. In Alicia’s case, no courses are listed. To view available courses to assign, you need to select the Course ID menu.
 
 1. Откройте меню **Код курса**.
 
@@ -44,17 +39,17 @@ ms.locfileid: "137909716"
 1. В меню **Статус курса** выберите команду **Применить**, чтобы увидеть все доступные открытые курсы.  
     Теперь принятой на работу Алисии можно назначить учебный курс.
 
-1. Выберите курс, который хотите назначить. Например, **00006 Обучение нового сотрудника**.
+1. В приложении Microsoft Dynamics 365 Human Resources руководители по персоналу могут назначать сотрудникам учебные курсы.
 
 1. На панели переноса данных курса нажмите кнопку **Да**.
 
 1. На странице **Курсы** в столбце **Дата начала** щелкните **значок календаря**.
 
-1. В календаре выберите дату начала. Например, **5 января 2021**.
+1. В этом примере принятой на работу Алисии требуется назначить обучение, доступное для сотрудников в течение их первых тридцати дней работы.
 
 1. В столбце **Дата окончания** щелкните **значок календаря**.
 
-1. В календаре выберите дату окончания обучения. Например, **8 января 2021**.
+1. In the calendar, select the end date for the training. For example, <bpt id="p1">**</bpt>January 8th 2021<ept id="p1">**</ept>.
 
 1. В левой части страницы **Курсы** нажмите кнопку **Сохранить**, чтобы сохранить внесенные изменения.
 
@@ -67,7 +62,7 @@ ms.locfileid: "137909716"
 
 1. В столбце **Дата начала** щелкните **значок календаря**.
 
-1. Выберите новую дату начала курса. Например, **6 января 2021**.
+1. Проверьте, чтобы в правом верхнем окне выбора компании, к которой подключаетесь, была указана компания **USMF**.
 
 1. Выберите **Сохранить**.
 

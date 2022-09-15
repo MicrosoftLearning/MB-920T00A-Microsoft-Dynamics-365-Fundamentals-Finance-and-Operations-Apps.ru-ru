@@ -2,18 +2,13 @@
 lab:
   title: Лабораторная работа 4. Создание производственного заказа
   module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
-ms.openlocfilehash: 527cbbf9cb2265d48ab2b2ba8fb6516632b46cf1
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116380"
 ---
+
 ## <a name="lab-4---create-a-production-order"></a>Задание 4. Создание производственного заказа
 
 ## <a name="objectives"></a>Задачи
 
-Производственный заказ содержит сведения о том, что будет производиться, производимом количестве и планируемой дата окончания. Он также содержит сведения о расходуемых материалах и производственном процессе.
+The production order contains information about what will be produced, the quantity to produce, and the planned finish date. It also contains information about which materials to consume and which process to follow to produce the item.
 
 Вам необходимо создать новый производственный заказ для своей компании.
 
@@ -27,18 +22,18 @@ ms.locfileid: "147116380"
 
 1. При необходимости выберите компанию, и, открыв меню, выберите компанию **USMF**.
 
-1. На левой панели навигации последовательно выберите пункты **Модули** > **Управление производством** > **Производственные заказы** > **Все производственные заказы**.
+1. На левой панели навигации последовательно выберите пункты **Модули** > **Управление производством** > **Производственные заказы** > **Все производственные заказы**.
 
 1. В меню вверху выберите **Новый производственный заказ**.
 
 1. В разделе **ИДЕНТИФИКАЦИЯ** введите в поле **Номенклатурный номер** значение **D0001** и выберите идентифицированную номенклатуру.
 
 1. В разделе **ПРОИЗВОДСТВО** в поле **Поставка** выберите дату, отстоящую от текущей даты на один месяц.  
-    Дата поставки показывает, когда производственный заказ должен завершиться, чтобы вовремя выполнить поставку. Эта дата может использоваться в процессе планирования. Например, можно запланировать заказ, ведя отсчет в обратную сторону от даты поставки.
+    The delivery date indicates when the production order should end in order to deliver on time. This date can be used in the scheduling process. For example, you can schedule the order backward from the delivery date.
 
 1. Введите в поле **Количество** значение **20**.
 
-1. В разделе **СПЕЦИФИКАЦИЯ/МАРШРУТ** в поле «Номер спецификации» автоматически отображается номер любой активной спецификации для текущей номенклатуры, однако спецификацию для производственного заказа можно изменить, выбрав активную спецификацию из списка утвержденных версий спецификации. В поле «Номер маршрута» автоматически отображается номер любого активного маршрута для текущей номенклатуры, однако маршрут для производственного заказа можно изменить, выбрав активный маршрут из списка утвержденных версий маршрута.
+1. Under <bpt id="p1">**</bpt>BOM/ROUTE<ept id="p1">**</ept>, the BOM number field automatically displays the number of any active BOM for the current item, but you can change the BOM for the production order by selecting an active BOM from the list of approved BOM versions. The Route number field automatically displays the number of any active Route for the current item, but you can change the Route for the production order by selecting an active Route from the list of approved Route versions.
 
     ![Экранное изображение, отображающее заполненную область «Создание производственного заказа»](./media/lp1-m4-new-production-order-pane.png)
 

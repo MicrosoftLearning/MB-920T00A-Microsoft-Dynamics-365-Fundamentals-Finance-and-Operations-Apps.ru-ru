@@ -2,13 +2,8 @@
 lab:
   title: Лабораторная работа 2. Создание счета в произвольной форме
   module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
-ms.openlocfilehash: 317a260d12d52af49eb38c731f6f10833a30583e
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116350"
 ---
+
 ## <a name="lab-2---create-a-free-text-invoice"></a>Задание 2. Создание накладной с произвольным текстом
 
 ## <a name="instructions"></a>Инструкции

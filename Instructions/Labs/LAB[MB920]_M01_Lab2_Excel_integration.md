@@ -2,18 +2,13 @@
 lab:
   title: Лабораторная работа 2. Интеграция с Excel
   module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
-ms.openlocfilehash: 7388809d8222580e4c6ed9cc38c51800d56b1aa0
-ms.sourcegitcommit: 66b904b57adc52ee5c896858be0924d6778642a7
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 08/02/2022
-ms.locfileid: "147448038"
 ---
+
 # <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>Модуль 1. Изучение основных возможностей приложений для управления финансами и операциями в Dynamics 365
 
 ## <a name="objective"></a>Назначение
 
-В этом задании вы научитесь копировать в Excel данные из приложений для управления финансами и операциями с помощью приложения-надстройки Dynamics для Office. Вы также узнаете, как можно вставлять данные в эти приложения, используя эту надстройку.
+In this lab, you will learn how to copy data from finance and operations to Excel using Dynamics office add-in app. You will also learn how the same app can be used to insert data into finance and operations apps.
 
 ## <a name="lab-steps"></a>Этапы лабораторной работы
 
@@ -27,7 +22,7 @@ ms.locfileid: "147448038"
 
 4. Выберите **Группы поставщиков** (usmf) и скачайте шаблон Excel.
 
-5. Сохраните и откройте скачанный шаблон Excel, при необходимости разрешите его, закройте активацию и выберите **Включить редактирование**. Включите доверие для этой надстройки, а затем выполните вход (используя те же учетные данные, если они будут запрошены).
+5. Save and then open the downloaded Excel template, allow it if needed, close activation, and select <bpt id="p1">**</bpt>Enable editing<ept id="p1">**</ept>. Trust this add-in, and then sign in (using your same credentials, if asked).
 
     Все существующие данные таблицы группы поставщиков будут отображаться в электронной таблице Excel.
 
