@@ -6,7 +6,7 @@ demo:
 
 ## <a name="demo-3---explore-project-costs"></a>Демонстрация 3 — знакомство с затратами по проекту
 
-In this demo, we will walk through the creation of a time and expense entry that will be charged to the Contoso Consulting project. We'll explore the entries in formats optimized for web and mobile presentation, and we'll see how a workflow is used to manage the approval process.
+В этой демонстрации дается обзор создания записей времени и расходов, которые будут выставлены по проекту Contoso Consulting. Рассматриваются записи в форматах, оптимизированных для представления в интернете и на мобильных устройствах, а также показывается, как рабочий процесс используется для управления процедурой утверждения.
 
 1. В приложении **Dynamics 365 for Finance and Operations**, на панели навигации последовательно выберите пункты **Модули > Управление и учет по проектам > Табели учета рабочего времени > Мои табели учета рабочего времени (оптимизированы для мобильных устройств)** .  
     Для начала отметим, что хотя прямо сейчас мобильное устройство не используется, вы оцените удобство форм для мобильных устройств, когда будет выбран параметр **Мои табели учета рабочего времени (оптимизированы для мобильных устройств)** .
@@ -15,7 +15,7 @@ In this demo, we will walk through the creation of a time and expense entry that
 
     Данная оптимизация — главная отличительная особенность бизнес-приложений корпорации Майкрософт, и она помогает с минимальным обучением переходить с веб-приложения на приложение для мобильных устройств.
 
-1. In the top right company picker, verify the legal entity you are connecting to is <bpt id="p1">**</bpt>USSI<ept id="p1">**</ept>. If it's not, change the legal entity to <bpt id="p1">**</bpt>USSI<ept id="p1">**</ept>.
+1. Проверьте, чтобы в правом верхнем окне выбора компании, к которой подключаетесь, было указано юридическое лицо **USSI**. Если это не так, измените юридическое лицо на **USSI**.
 
 1. На странице **Мои табели учета рабочего времени** нажмите кнопку **Создать**.  
     Сейчас создадим новый табель, основанный на заданных параметрах.
@@ -31,7 +31,7 @@ In this demo, we will walk through the creation of a time and expense entry that
 1. На странице **Сведения о моих табелях учета рабочего времени** щелкните значок **Новые +** .
 
 1. На панели **Новая строка табеля учета рабочего времени** наведите указатель мыши на поле **Юридическое лицо**.  
-    The new timesheet line will be opened, with details such as the customer, the project, the category, the line properties, and tax parameters. You can also select a different legal entity if the time entry is on behalf of another company within your organization.
+    Откроется новая строка табеля учета рабочего времени со сведениями, такими как клиент, проект, категория, свойства строки и параметры налога. Можно также выбрать другое юридическое лицо, если запись времени занесена в интересах другой компании в вашей организации.
 
 1. Откройте меню **Код проекта**.
 
@@ -45,10 +45,10 @@ In this demo, we will walk through the creation of a time and expense entry that
 
     ![Снимок экрана со страницей ввода времени.](./media/projops_costs_2_mon_box.png)
 
-1. В этой демонстрации дается обзор создания записей времени и расходов, которые будут выставлены по проекту Contoso Consulting.  
+1. В поле **Внутренний комментарий** добавьте комментарий. Например: **Возможно, стоит переговорить с ними о новых велосипедах**.  
     Можно также вводить внутренние и внешние комментарии по проекту, чтобы гарантировать понимание всеми сторонами природы регистрируемого рабочего времени.
 
-1. Рассматриваются записи в форматах, оптимизированных для представления в интернете и на мобильных устройствах, а также показывается, как рабочий процесс используется для управления процедурой утверждения.
+1. В поле **Внешний комментарий** добавьте комментарий. Например: **Отрегулированы цепи и отцентрированы передние колеса в автопарке**.
 
 1. На панели навигации нажмите кнопку **Сохранить**.
 
@@ -57,13 +57,13 @@ In this demo, we will walk through the creation of a time and expense entry that
 1. На странице **Мои табели учета рабочего времени** выберите запись времени, созданную ранее.
 
 1. На вкладке **Табель учета рабочего времени** наведите указатель мыши на столбец «Категория».  
-    Now assume we've returned to a computer and are reviewing our time from within the web timesheet form. We can still see the same information, such as the category and the hours.
+    Теперь предположим, что мы вернулись к компьютеру и просматриваем свое рабочее время на веб-форме табеля учета рабочего времени. По-прежнему можно просматривать ту же самую информацию, такую как категория и часы работы.
 
 1. В разделе **Сведения о строке** наведите указатель мыши на пункты **Внутренний комментарий** и **Внешний комментарий**.  
-    We can also review the comments we entered earlier. The information is there, but the layout format is just a bit different. This format is often used for final review because it can be easier for people to review and validate their time, especially when someone is assigned to multiple projects or categories.
+    Можно также просмотреть комментарии, введенные ранее. Все сведения на месте, но разметка немного отличается. Этот формат часто используется для итогового обзора, так как он проще для просмотра и проверки своего рабочего времени, особенно когда кто-нибудь назначен в несколько проектов или категорий.
 
 1. На панели навигации откройте вкладку **Рабочий процесс**.  
-    If we're satisfied with the timesheet, we can submit it. The approvals required will be determined by each organization during the implementation phase based on their own company policies.
+    Если нет замечаний по табелю учета рабочего времени, его можно отправить. Необходимые утверждения определяются в каждой организации на этапе реализации и основываются на собственных политиках компании.
 
 1. На панели **Обзор рабочего процесса табеля учета рабочего времени** нажмите кнопку **Отправить**.
 
@@ -71,10 +71,10 @@ In this demo, we will walk through the creation of a time and expense entry that
 
 1. Нажмите кнопку **Submit** (Отправить).
 
-1. Browse to the <bpt id="p1">**</bpt>Hour transactions<ept id="p1">**</ept> page. If the <bpt id="p1">**</bpt>Hour transactions<ept id="p1">**</ept> tab is grayed out, browse to the <bpt id="p2">**</bpt>My timesheets page<ept id="p2">**</ept>, and select the previously created timesheet.
+1. Перейдите на страницу **Почасовые проводки**. Если вкладка **Почасовые проводки** окрашена в серый цвет, перейдите на страницу **Мои табели учета рабочего времени** и выберите ранее созданный табель учета рабочего времени.
 
 1. Находясь на странице **Почасовые проводки**, просмотрите страницу.  
-    Upon approval, the results will be posted and will be visible in the Hour transactions page. We can see all the relevant information, such as the legal entity, project, category, hours, and in this case, even a view of the cost price and the sales price.  
+    После утверждения результаты будут разнесены и отображаются на странице почасовых проводок. Доступны для просмотра все уместные сведения, такие как юридическое лицо, проект, категория, рабочие часы, а в данном случае отображаются даже себестоимость и цена продажи.  
 
 Затем можно подробно рассмотреть проводки ваучера.
 
@@ -89,7 +89,7 @@ In this demo, we will walk through the creation of a time and expense entry that
 
 1. На странице **Управление расходами**, на вкладке **Отчеты** выберите **+ Новый отчет по расходам**.
 
-1. Проверьте, чтобы в правом верхнем окне выбора компании, к которой подключаетесь, было указано юридическое лицо **USSI**.
+1. На странице **Новый отчет по расходам**, в поле **Назначение** введите название. Например, **Contoso – фев2021**.
 
 1. Щелкните **ОК**.
 
@@ -103,7 +103,7 @@ In this demo, we will walk through the creation of a time and expense entry that
 
 1. В столбце **Валюта** выберите **USD**.
 
-1. Если это не так, измените юридическое лицо на **USSI**.  
+1. В столбце **Дата проводки** выберите дату. Например, **1/2/2021**.  
     После того, как введены все сведения, можно сохранить расходы.
 
 1. Выберите **Сохранить**.
@@ -127,6 +127,6 @@ In this demo, we will walk through the creation of a time and expense entry that
 1. Нажмите кнопку **Submit** (Отправить).
 
 1. На странице **Управление расходами** наведите указатель мыши на столбец **Статус утверждения**.  
-    At this time, travel policies and expense approval flow will be activated. The costs have been posted and applied to the Contoso Consulting project and will be available later for invoicing if chargeable.
+    На данном этапе будут активированы политики командировок и процесс утверждения расходов. Затраты разнесены и применены к проекту Contoso Consulting, а позже будут доступны для выставления счетов, если подлежат оплате.
 
-In this demo, we have processed a time and expense entry that was charged to the Contoso Consulting project. We saw samples in web and mobile formats and were able to see how workflows are used to manage the approvals required by the USSI organization.
+В этой демонстрации обработаны записи времени и расходов, которые были выставлены для оплаты по проекту Contoso Consulting. Показаны примеры в форматах для Интернета и мобильных устройств, а также продемонстрировано применение рабочих процессов для управления утверждениями, действующими в организации USSI.

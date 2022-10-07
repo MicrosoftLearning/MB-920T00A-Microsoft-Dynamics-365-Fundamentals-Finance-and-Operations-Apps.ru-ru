@@ -8,7 +8,7 @@ lab:
 
 ## <a name="objectives"></a>Задачи
 
-The production order contains information about what will be produced, the quantity to produce, and the planned finish date. It also contains information about which materials to consume and which process to follow to produce the item.
+Производственный заказ содержит сведения о том, что будет производиться, производимом количестве и планируемой дата окончания. Он также содержит сведения о расходуемых материалах и производственном процессе.
 
 Вам необходимо создать новый производственный заказ для своей компании.
 
@@ -29,11 +29,11 @@ The production order contains information about what will be produced, the quant
 1. В разделе **ИДЕНТИФИКАЦИЯ** введите в поле **Номенклатурный номер** значение **D0001** и выберите идентифицированную номенклатуру.
 
 1. В разделе **ПРОИЗВОДСТВО** в поле **Поставка** выберите дату, отстоящую от текущей даты на один месяц.  
-    The delivery date indicates when the production order should end in order to deliver on time. This date can be used in the scheduling process. For example, you can schedule the order backward from the delivery date.
+    Дата поставки показывает, когда производственный заказ должен завершиться, чтобы вовремя выполнить поставку. Эта дата может использоваться в процессе планирования. Например, можно запланировать заказ, ведя отсчет в обратную сторону от даты поставки.
 
 1. Введите в поле **Количество** значение **20**.
 
-1. Under <bpt id="p1">**</bpt>BOM/ROUTE<ept id="p1">**</ept>, the BOM number field automatically displays the number of any active BOM for the current item, but you can change the BOM for the production order by selecting an active BOM from the list of approved BOM versions. The Route number field automatically displays the number of any active Route for the current item, but you can change the Route for the production order by selecting an active Route from the list of approved Route versions.
+1. В разделе **СПЕЦИФИКАЦИЯ/МАРШРУТ** в поле «Номер спецификации» автоматически отображается номер любой активной спецификации для текущей номенклатуры, однако спецификацию для производственного заказа можно изменить, выбрав активную спецификацию из списка утвержденных версий спецификации. В поле «Номер маршрута» автоматически отображается номер любого активного маршрута для текущей номенклатуры, однако маршрут для производственного заказа можно изменить, выбрав активный маршрут из списка утвержденных версий маршрута.
 
     ![Экранное изображение, отображающее заполненную область «Создание производственного заказа»](./media/lp1-m4-new-production-order-pane.png)
 
