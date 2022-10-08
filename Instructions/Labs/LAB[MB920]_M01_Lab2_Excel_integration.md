@@ -8,7 +8,7 @@ lab:
 
 ## <a name="objective"></a>Назначение
 
-In this lab, you will learn how to copy data from finance and operations to Excel using Dynamics office add-in app. You will also learn how the same app can be used to insert data into finance and operations apps.
+В этом задании вы научитесь копировать в Excel данные из приложений для управления финансами и операциями с помощью приложения-надстройки Dynamics для Office. Вы также узнаете, как можно вставлять данные в эти приложения, используя эту надстройку.
 
 ## <a name="lab-steps"></a>Этапы лабораторной работы
 
@@ -22,7 +22,7 @@ In this lab, you will learn how to copy data from finance and operations to Exce
 
 4. Выберите **Группы поставщиков** (usmf) и скачайте шаблон Excel.
 
-5. Save and then open the downloaded Excel template, allow it if needed, close activation, and select <bpt id="p1">**</bpt>Enable editing<ept id="p1">**</ept>. Trust this add-in, and then sign in (using your same credentials, if asked).
+5. Сохраните и откройте скачанный шаблон Excel, при необходимости разрешите его, закройте активацию и выберите **Включить редактирование**. Включите доверие для этой надстройки, а затем выполните вход (используя те же учетные данные, если они будут запрошены).
 
     Все существующие данные таблицы группы поставщиков будут отображаться в электронной таблице Excel.
 

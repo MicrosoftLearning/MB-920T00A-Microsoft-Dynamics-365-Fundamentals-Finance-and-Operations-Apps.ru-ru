@@ -1,14 +1,9 @@
 ---
 lab:
-  title: Задание 1. Управление финансовыми и операционными приложениями
+  title: "Задание\_1. Управление финансовыми и операционными приложениями"
   module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
-ms.openlocfilehash: f1d534e6d6d960be8f6672048f83a20a491264cc
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116218"
 ---
+
 # <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>Модуль 1. Изучение основных возможностей приложений для управления финансами и операциями в Dynamics 365
 
 ## <a name="lab-1---navigate-finance-and-operations-apps"></a>Лабораторная работа 1 — управление финансовыми и операционными приложениями
