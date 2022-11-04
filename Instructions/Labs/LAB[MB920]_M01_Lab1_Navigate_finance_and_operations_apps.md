@@ -34,7 +34,7 @@ lab:
 
         pass@word1
 
-    >[!Note] На компьютере может автоматически открыться Internet Explorer. Если вы не выполнили шаги 2–5, завершите их выполнение, прежде чем вернуться в Internet Explorer.
+    >[!Note] На компьютере может автоматически открыться Microsoft Edge. Если вы еще не выполнили шаги 2–5, завершите их выполнение, прежде чем вернуться в Microsoft Edge.
 
 1. Выберите на рабочем столе файл **AdminUserProvisioning**.
 
@@ -45,7 +45,7 @@ lab:
 
 1. Чтобы продолжить, нажмите кнопку **Ok**.
 
-1. Откройте **Internet Explorer**.
+1. Откройте **Microsoft Edge**.
 
 1. Перейдите по указанной ссылке: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
