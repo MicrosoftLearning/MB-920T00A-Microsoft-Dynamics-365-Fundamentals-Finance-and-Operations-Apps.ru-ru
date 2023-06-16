@@ -4,7 +4,7 @@ demo:
   module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
 ---
 
-## <a name="demo-1---month-end-close"></a>Демонстрация 1 — закрытие месяца
+## Демонстрация 1 — закрытие месяца
 
 1. Перейдите на домашнюю страницу **Microsoft 365 for Finance and Operations**.  
     Чтобы создать новое закрытие финансового периода в Microsoft Dynamics 365 for Finance and Operations, например, закрытие месяца, сначала перейдите в модуль **Главная книга**.
