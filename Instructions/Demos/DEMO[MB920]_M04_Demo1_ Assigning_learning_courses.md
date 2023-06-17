@@ -4,7 +4,7 @@ demo:
   module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Human Resources'
 ---
 
-## <a name="demo-1---assigning-learning-courses"></a>Демонстрация 1 — назначение курсов обучения
+## Демонстрация 1 — назначение курсов обучения
 
 1. Перейдите на домашнюю страницу **Microsoft Dynamics 365 Human Resources**.  
     В приложении Microsoft Dynamics 365 Human Resources руководители по персоналу могут назначать сотрудникам учебные курсы. В этом примере принятой на работу Алисии требуется назначить обучение, доступное для сотрудников в течение их первых тридцати дней работы.
