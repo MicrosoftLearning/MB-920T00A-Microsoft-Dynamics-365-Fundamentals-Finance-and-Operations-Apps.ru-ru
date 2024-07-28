@@ -1,12 +1,12 @@
 ---
 lab:
-  title: "Задание\_2: Интеграция с Excel"
-  module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
+  title: Лаборатория 1.2. Интеграция с Excel
+  module: 'Learning Path 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
 ---
+# Схема обучения 1. Изучение основных возможностей приложений для управления финансами и операциями в Dynamics 365
+# Модуль 3. Описание возможностей создания отчетов и интеграции в приложениях для финансов и операций
 
-# Модуль 1: Изучение основных возможностей приложений для управления финансами и операциями в Dynamics 365
-
-## Задание 2: Интеграция с Excel
+## Лаборатория 1.2. Интеграция с Excel
 
 ## Цель
 
