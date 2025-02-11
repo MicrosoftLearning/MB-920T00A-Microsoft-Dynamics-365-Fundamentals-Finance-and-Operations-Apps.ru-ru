@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps
 
 - **[Скачать последнюю версию справочника для учащихся и материалы в виде пакета AllFiles](https://learningdownloadcenter.microsoft.com/)**
